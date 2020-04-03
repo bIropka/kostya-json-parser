@@ -1,0 +1,253 @@
+{
+  "accountUpdated": {
+    "customer_username": "",
+    "homepage_link": "",
+    "email_head": "",
+    "customer_firstname": "",
+    "website_name": "",
+    "changepass_link": "",
+    "transcript_link": "",
+    "order_history_link": "",
+    "specials_link": "",
+    "courses_link": "",
+    "help_link:": "",
+    "credit_link": "",
+    "logo_src": "",
+    "autologin": "",
+    "contact_link": "",
+    "unsubscribe_link": ""
+  },
+  "booklet": {
+    "site_common_name": "",
+    "customer_id": "",
+    "customer_firstname": "",
+    "customer_middlename": "",
+    "customer_lastname": "",
+    "customer_email": "",
+    "customer_address_street": "",
+    "customer_address_city": "",
+    "customer_address_state": "",
+    "customer_address_zip": "",
+    "customer_phone_number": "",
+    "customer_phone_extension": "",
+    "product_code": "",
+    "product_title": "",
+    "customer_primary_profession": "",
+    "customer_primary_jurisdiction": "",
+    "license_with_request": "",
+    "stored_licenses": [
+      {
+        "license": ""
+      }
+    ],
+    "autologin_link": "",
+    "contact_link": "",
+    "credit_link": "",
+    "unsubscribe_link": ""
+  },
+  "catalog": {
+    "site_common_name": "",
+    "customer_id": "",
+    "customer_firstname": "",
+    "customer_middlename": "",
+    "customer_lastname": "",
+    "customer_email": "",
+    "customer_address_street": "",
+    "customer_address_unit": "",
+    "customer_address_city": "",
+    "customer_address_state": "",
+    "customer_address_zip": "",
+    "customer_phone_number": "",
+    "customer_phone_extension": "",
+    "jurisdiction": "",
+    "comments": "",
+    "autologin": "",
+    "contact_link": "",
+    "credit_link": "",
+    "unsubscribe_link": ""
+  },
+  "certificateHours": {
+    "email_head": "",
+    "course_id": "",
+    "course_number": "",
+    "course_title": "",
+    "course_hours": "",
+    "invalidanswer": "",
+    "eval_template_description": "",
+    "customer_id": "",
+    "customer_firstname": "",
+    "customer_lastname": "",
+    "answers": [
+      {
+        "question_number": "",
+        "question_text": "",
+        "answer": "",
+        "answer_type_code": ""
+      }
+    ],
+    "customer_username": "",
+    "site_common_name": "",
+    "target_host": "",
+    "autologin": "",
+    "contact_link": "",
+    "credit_link": ""
+  },
+  "confirmBooklet": {
+    "customer_firstname": "",
+    "site_common_name": "",
+    "specials_link": "",
+    "autologin": "",
+    "contact_link": "",
+    "credit_link": ""
+  },
+  "emailCertificates": {
+    "email_head": "",
+    "certificate_info": "",
+    "certificates_link": "",
+    "transcript_link": "",
+    "customer_firstname": "",
+    "site_common_name": "",
+    "certificates_info": [
+      {
+        "course_number": "",
+        "course_title": "",
+        "completed_date": ""
+      }
+    ],
+    "certificate_message": "",
+    "autologin": "",
+    "contact_link": "",
+    "credit_link": ""
+  },
+  "emailFreind": {
+    "email_head": "",
+    "from_customer_name": "",
+    "course_title": "",
+    "course_link": "",
+    "contact_link": "",
+    "credit_link": "",
+    "site_url": ""
+  },
+  "invalidReferralId": {
+    "custom_args": "",
+    "product_id": "",
+    "referral_id": "",
+    "referral_code": "",
+    "customer_id": "",
+    "customer-email": "",
+    "target_host": "",
+    "autologin": "",
+    "contact_link": "",
+    "credit_link": ""
+  },
+  "lostPassword": {
+    "email_head": "",
+    "customer_firstname": "",
+    "login_link": "",
+    "site_common_name": "",
+    "customer_username": "",
+    "reset_password_link": "",
+    "target_host": "",
+    "autologin": "",
+    "contact_link": "",
+    "credit_link": ""
+  },
+  "notifyGroupAdmin": {
+    "groupcodename": "",
+    "groupcode": "",
+    "groupadminname": "",
+    "numberofprepays": "",
+    "groupcode_order_link": "",
+    "netce_group_link": ""
+  },
+  "orderSummary": {
+    "email-head": "",
+    "customer_firstname": "",
+    "site_common_name": "",
+    "transcript_link": "",
+    "orderhistory_link": "",
+    "specials_link": "",
+    "courses_link": "",
+    "help_link:": "",
+    "contact_link": "",
+    "credit_link": ""
+  },
+  "payPalNote": {
+    "customer_balance": "",
+    "customer_firstname": "",
+    "customer_honorific": "",
+    "customer_middlename": "",
+    "customer_lastname": "",
+    "customer_suffix": "",
+    "customer_title": "",
+    "cims_customer_link": "",
+    "paypal_checkout_details_note": "",
+    "payment_date": "",
+    "order_number": "",
+    "order_amount": "",
+    "products_purchased": [
+      {
+        "product_code": "",
+        "product_description": "",
+        "deliverytype": "",
+        "product_price": ""
+      }
+    ],
+    "paypal_checkout_details_firstname": "",
+    "paypal_checkout_details_paypalcheckoutdetails": "",
+    "mailing_address": ""
+  },
+  "permission": {
+    "email_head": "",
+    "customer_firstname": "",
+    "customer_lastname": "",
+    "customer_email": "",
+    "customer_organization": "",
+    "customer_department": "",
+    "customer_address_street": "",
+    "customer_address_unit": "",
+    "customer_address_city": "",
+    "customer_address_statecode": "",
+    "country_code": "",
+    "customer_phonenumber": "",
+    "customer_phoneext": "",
+    "course_number": "",
+    "course_title": "",
+    "reprint_date": "",
+    "reprint_format": "",
+    "reprint_portion": "",
+    "reprint_copies": "",
+    "reprint_ce_flag": "",
+    "reprint_fee_flag": "",
+    "reprint_description": "",
+    "original_check": "",
+    "comments": ""
+  },
+  "pleaseRegister": {
+    "site_common_name": "",
+    "quickcode_link": "",
+    "register_link": "",
+    "site_link": "",
+    "support_link": "",
+    "support_time": "",
+    "contact_link": "",
+    "credit_link": ""
+  },
+  "register": {
+    "email-head": "",
+    "site_common_name": "",
+    "customer_firstname": "",
+    "customer_username": "",
+    "changepass_link": "",
+    "transcript_link": "",
+    "orderhistory_link": "",
+    "specials_link": "",
+    "courses_link": "",
+    "help_link:": "",
+    "login_link": "",
+    "autologin_link": "",
+    "contact_link": "",
+    "credit_link": "",
+    "unsubscribe_link": ""
+  }
+}
